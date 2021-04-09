@@ -1,0 +1,68 @@
+The collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making describes what?
+Ans:Data analysis
+
+People analytics is used to create a more productive workplace. It involves collecting and analyzing information about what?
+Ans:Employees
+
+
+In data analytics, what term describes a collection of elements that interact with one another?
+Ans:A data ecosystem
+
+Select the best description of gut instinct.
+Ans:An intuitive understanding of something with little or no explanation 
+
+A company defines a problem it wants to solve. Then, a data analyst gathers relevant data, analyzes it, and uses it to draw conclusions. The analyst shares their analysis with subject-matter experts, who validate the findings. Finally, a plan is put into action. What does this scenario describe?
+Ans:Data-driven decision-making
+
+What do subject-matter experts do to support data-driven decision-making? Select all that apply.
+Ans:
+Validate the choices made as a result of the data insights
+Offer insights into the business problem
+Review the results of data analysis and identify any inconsistencies
+
+You have just finished analyzing data for a marketing project. Before moving forward, you share your results with members of the marketing team to see if they might have additional insights into the business problem. What practice does this support?
+Ans:Data-driven decision-making
+
+
+You have recently subscribed to an online data analytics magazine. You really enjoyed an article and want to share it in the discussion forum. Which of the following would be appropriate in a post? Select all that apply.
+Ans:
+Including your own thoughts about the article
+Giving credit to the original author
+Checking your post for typos or grammatical errors
+
+Data analysis is the various elements that interact with one another in order to provide, manage, store, organize, analyze, and share data.
+Ans:False
+
+A business collects and analyzes information about its employees in order to gain insights that unlock potential and create a more productive workplace. What practice does this describe?
+Ans:People analytics
+
+
+Fill in the blank: Data ecosystems are made up of elements that _____ with each other. This makes it possible for them to produce, manage, store, organize, analyze, and share data.
+Ans:interact
+
+What do subject-matter experts do to support data-driven decision-making? Select all that apply.
+Ans:
+
+Review the results of data analysis and identify any inconsistencies
+Validate the choices made as a result of the data insights
+Offer insights into the business problem
+
+After completing their analysis, data analysts often share their results with subject-matter experts. These people offer additional insights into the business problem, identify any inconsistencies in the analysis, and validate the choices being made.
+Ans:True
+
+You have recently subscribed to an online data analytics magazine. You really enjoyed an article and want to share it in the discussion forum. Which of the following would be appropriate in a post? Select all that apply.
+Ans:
+
+Giving credit to the original author
+Including your own thoughts about the article
+Checking your post for typos or grammatical errors
+
+In data analytics, a model is a group of elements that interact with one another.
+Ans:False
+
+What tactics can a data analyst use to effectively blend gut instinct with facts? Select all that apply.
+Ans:
+Apply their unique past experiences to their current work, while keeping in mind the story the data is telling.
+Use their knowledge of how their company works to better understand a business need.
+
+
