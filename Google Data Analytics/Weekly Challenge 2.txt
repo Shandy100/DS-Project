@@ -53,3 +53,21 @@ Ans:Data-driven decision-making
 Fill in the blank: _____ involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 Ans:A technical mindset  
 
+
+
+
+
+/*
+Identifying the motivation behind data collection and gathering additional information are examples of which analytical skill?
+
+A technical mindset
+Understanding context
+
+Analytical skills are defined as
+
+the management of people, processes, and tools 
+qualities and characteristics associated with solving problems using facts
+
+What are the qualities and characteristics that enable a data analyst to solve problems?
+
+*/
