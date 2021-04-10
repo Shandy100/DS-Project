@@ -1,0 +1,55 @@
+Curiosity is an analytical skill that involves which of the following?
+Ans:Seeking out new challenges and experiences
+
+Fill in the blank: Data strategy involves _____ the people, processes, and tools used in data analysis. 
+Ans:managing 
+
+Data analysts use a detail-oriented approach to zoom out and see possibilities and opportunities.
+Ans:False
+
+Data analysts ask, “Why?” five times in order to get to the root cause of a problem.
+Ans:True
+
+Question 10
+A company is receiving negative comments on social media about their products. To solve this problem, a data analyst uses each of their five analytical skills: curiosity, understanding context, having a technical mindset, data design, and data strategy. This makes it possible for the analyst to use facts to guide business strategy and figure out how to improve customer satisfaction. What is this an example of?
+Ans:Data-driven decision-making
+
+Seeking out new challenges and experiences in order to learn is an example of which analytical skill?
+Ans:Curiosity
+
+Identifying the motivation behind data collection and gathering additional information are examples of which analytical skill?
+Ans:
+
+A data analyst works for an appliance manufacturer. Last year, the company’s profits were down. Lower profits can be a result of fewer people buying appliances, higher costs to make appliances, or a combination of both. The analyst recognizes that those are big issues to solve, so they break down the problems into smaller pieces to analyze them in an orderly way. Which analytical skill are they using?
+Ans:A technical mindset 
+
+Which analytical skill involves managing the people, processes, and tools used in data analysis? 
+Ans:Data strategy 
+
+When executing a plan, a data analyst always double-checks their work, reads emails twice before sending them, and makes sure instructions are clear and correct the first time. They save their company time, money, and effort by paying attention to the specifics. This is an example of what?
+Ans:Detail-oriented thinking
+
+What method involves asking numerous questions in order to get to the root cause of a problem?
+Ans:The five whys
+
+What method involves examining and evaluating how a process works currently in order to get it where you want it to be in the future?
+Ans:Gap analysis
+
+Data-driven decision-making involves the five analytical skills: curiosity, understanding context, having a technical mindset, data design, and data strategy. Each plays a role in data-driven decision-making.
+Ans:True
+
+Correlation is the aspect of analytical thinking that involves figuring out the specifics that help you execute a plan.
+Ans:False
+
+When executing a plan, a data analyst always double-checks their work, reads emails twice before sending them, and makes sure instructions are clear and correct the first time. They save their company time, money, and effort by paying attention to the specifics. This is an example of what?
+Ans:Detail-oriented thinking
+
+An airport wants to make its luggage-handling process faster and simpler for travelers. A data analyst examines and evaluates how the process works currently in order to achieve the goal of a more efficient process. What methodology do they use? 
+Ans:Gap analysis
+
+A company is receiving negative comments on social media about their products. To solve this problem, a data analyst uses each of their five analytical skills: curiosity, understanding context, having a technical mindset, data design, and data strategy. This makes it possible for the analyst to use facts to guide business strategy and figure out how to improve customer satisfaction. What is this an example of?
+Ans:Data-driven decision-making
+
+Fill in the blank: _____ involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
+Ans:A technical mindset  
+
