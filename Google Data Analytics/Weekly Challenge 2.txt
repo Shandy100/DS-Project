@@ -53,21 +53,20 @@ Ans:Data-driven decision-making
 Fill in the blank: _____ involves the ability to break things down into smaller steps or pieces and work with them in an orderly and logical way.
 Ans:A technical mindset  
 
+Fill in the blank: Data analysts use the five analytical skills of curiosity, understanding context, having a technical mindset, data design, and data strategy to make _____ decisions.
+Ans:data-driven
 
+Gap analysis is a method for examining and evaluating how a process works currently in order to get where you want to be in the future.
+Ans:True
 
+Fill in the blank: Detail-oriented thinking is about figuring out all of the _____ that will help you execute a plan. 
+Ans:specifics
 
-
-/*
-Identifying the motivation behind data collection and gathering additional information are examples of which analytical skill?
-
-A technical mindset
-Understanding context
-
-Analytical skills are defined as
-
-the management of people, processes, and tools 
-qualities and characteristics associated with solving problems using facts
+A junior data analyst is seeking out new experiences in order to gain knowledge. They watch videos and read articles about data analytics. They ask experts questions. Which analytical skill are they using?
+Ans:Curiosity
 
 What are the qualities and characteristics that enable a data analyst to solve problems?
+Ans:Analytical skills
 
-*/
+Identifying the motivation behind data collection and gathering additional information are examples of which analytical skill?
+Ans:Understanding context
