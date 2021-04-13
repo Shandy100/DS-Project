@@ -1,0 +1,51 @@
+In the following spreadsheet, the observation of Greensboro describes all of the data in row 4.
+True
+
+If a data analyst wants to list the cities in this spreadsheet alphabetically, instead of numerically, what feature can they use in column B?
+Sort range
+
+A data analyst types =POPULATION(C2:C11) to find the average population of the cities in this spreadsheet. However, they realize that have used the wrong formula. What syntax will correct this function?
+=AVERAGE(C2:C11)
+
+When writing a query that includes all of the data from the table, what would a data analyst add after the word SELECT?
+An asterisk (*)
+
+When writing a query, what word does a data analyst use to indicate the table from which the data will be retrieved?
+FROM
+
+You are writing a query that asks a database to retrieve data about the customer with identification number 1057. The column name for customer identification numbers is customer_id. What is the correct SQL clause?
+WHERE customer_id = 1057
+
+A data analyst creates the following visualization to clearly demonstrate how much more populous Charlotte is than the next-largest North Carolina city, Raleigh. What type of chart is it?
+A column, or bar, chart 
+
+A data analyst wants to demonstrate how the population in Charlotte has increased over time. They create this data visualization. This is an example of an area chart.
+False
+
+The column attributes for rank, name, population, and county are located in which row of the following spreadsheet?
+1
+
+Fill in the blank: In row 8 of the following spreadsheet, you can find the _____ of Cary.
+observation
+
+To find the average population of the cities in this spreadsheet, you type =AVERAGE. What range will complete your function? 
+C2:C11
+
+In the following query, FROM is telling the database to filter out data from the Orders table. 
+False
+
+A data analyst wants to demonstrate how the population in Charlotte has increased over time. They create the chart below. What is this type of chart called?
+Line chart
+
+A data analyst creates the following visualization to clearly demonstrate how much more populous Charlotte is than the next-largest North Carolina city, Raleigh. It’s called a line chart.
+False
+
+In row 1 of the following spreadsheet, the words rank, name, population, and county are called what?
+Attributes
+
+In the following query, the asterisk (*) tells the database to select one specific piece of data from the table.
+False
+
+In the following query, FROM is telling the database to filter out data from the Orders table.
+False
+
