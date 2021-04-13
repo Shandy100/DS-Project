@@ -1,0 +1,93 @@
+The manage stage of the data life cycle is when a business decides what kind of data it needs, how the data will be handled, and who will be responsible for it.
+False
+
+A data analyst is working at a small tech startup. They’ve just completed an analysis project, which involved private company information about a new product launch. In order to keep the information safe, the analyst uses secure data-erasure software for the digital files and a shredder for the paper files. Which stage of the data life cycle does this describe?
+Destroy
+
+During the capture phase of the data life cycle, a data analyst may use spreadsheets to aggregate data.
+False
+
+Fill in the blank: The data life cycle has six stages, whereas data analysis has six
+process steps
+
+Data analysts use which tool to store, organize, and sort data?
+A spreadsheet
+
+Fill in the blank: A formula is a set of instructions used to perform a specified calculation; whereas a function is
+a predefined operation
+
+Fill in the blank: To request, retrieve, and update information in a database, data analysts use a 
+query
+
+
+Fill in the blank: Structured query language (SQL) enables data analysts to _____ the information in a database. Select all that apply.
+update
+request
+retrieve
+
+
+A data analyst is presenting at a formal stakeholder meeting. They want to help their audience understand the data by using data visualizations. These visualizations will help the data analyst achieve which goals? Select all that apply.
+Help nontechnical people and visual learners understand the data
+Communicate their insights in a compelling way
+Enable their audience to draw conclusions and make decisions
+
+The destroy phase of the data life cycle might involve which of the following actions? Select all that apply.
+Shredding paper files
+Using data-erasure software
+
+During the capture phase of the data life cycle, a data analyst may use spreadsheets to aggregate data. 
+False
+
+Describe how the data life cycle differs from data analysis.
+The data life cycle deals with the stages that data goes through during its useful life; data analysis is the process of analyzing data.
+
+
+What actions might a data analytics team take in the act phase of the data analysis process? Select all that apply.
+Finalizing a strategy based on the analysis
+Putting a plan into action to help solve the business problem
+Validating insights provided by analysts
+
+Fill in the blank: Spreadsheets are _____ that can be used to store, organize, and sort data.
+digital worksheets
+
+What is the main difference between a formula and a function?
+A formula is a set of instructions used to perform a specified calculation; a function is a preset command that automatically performs a specified process.
+
+
+Data analysts use queries to request, retrieve, and update information within a database.
+True
+
+Structured query language (SQL) enables data analysts to communicate with a database.
+True
+
+The graphical representation of information helps stakeholders understand data insights. Formulas and functions make this possible.
+False
+
+What actions might a data analytics team take in the act phase of the data analysis process? Select all that apply.
+Validating insights provided by analysts
+Finalizing a strategy based on the analysis
+Putting a plan into action to help solve the business problem
+
+A data analyst wants to organize data into rows and columns to analyze it more effectively. A spreadsheet is an effective tool for this process.
+True
+
+A company takes insights provided by its data analytics team, validates them, and finalizes a strategy. They then implement a plan to solve the original business problem. This describes which step of the data analysis process?
+Act
+
+The graphical representation of information helps stakeholders understand data insights. Formulas and functions make this possible.
+False
+
+Fill in the blank: A function is a predefined operation, whereas a formula is
+a set of instructions used to perform a specified calculation.
+
+Fill in the blank: A query is used to _____ information from a database. Select all that apply.
+request 
+retrieve
+update
+
+A data analyst wants to retrieve information from a database. Select the correct tool from the data analyst’s toolkit.
+Query
+
+The manage stage of the data life cycle is when a business decides what kind of data it needs, how the data will be handled, and who will be responsible for it.
+False
+
