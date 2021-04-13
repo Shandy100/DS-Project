@@ -1,0 +1,59 @@
+Considering the size of your dataset, you decide a spreadsheet will be the best tool for your project. You proceed by downloading the data from the database. Describe why this is the best choice.
+Spreadsheets work well for processing and analyzing a small dataset, like the one you’re using.
+
+The best course of action is to delete row 16 from your dataset so the missing data doesn’t get in the way of your results.
+No
+
+During analysis, you create a new column F. At the top of the column, you add the attribute Average Percentage of Total Sales - Splashtastic. Select the correct definition for an attribute.
+A characteristic or quality of data used to label a column
+
+Next, you determine the average percentage of total store sales that Splashtastic sales represent. To do this, you use the AVERAGE function. Identify the correct way to write your function.
+=AVERAGE (F:F)
+
+You’ve reached the share phase of the data analysis process. It involves which of the following? Select all that apply.
+Create a data visualization to highlight the Splashtastic sales insights you've discovered.
+Prepare a slideshow about Splashtastic’s sales and practice your presentation.
+Present your findings about Splashtastic to stakeholders.
+
+The table is dental_data_table, and the column name is zip_code. You have written the following query, but received an error when it ran. What is the clause that will correct this query?
+WHERE zip_code 81137
+
+The patient demographic information includes data such as age and gender. As you’re learning, it’s your responsibility as a data analyst to make sure your analysis is fair. Which aspect of patient demographics might get in the way of fairness?
+The dataset includes people who all live in the same zip code.
+
+Fill in the blank: Changing the business task involves defining a new _____.
+question or problem to be solved
+
+The people who are familiar with a problem and help verify the results of data analysis include customers and competitors.
+False
+
+For this, a doughnut chart will be most effective.
+False
+
+You know that spreadsheets work well for processing and analyzing a small dataset, like the one you’re using. To get the data from the database into a spreadsheet, what should you do?
+Download the data as a .CSV file, then import it into a spreadsheet.
+
+The best course of action is to delete row 16 from your dataset so the missing data doesn’t get in the way of your results.
+No
+
+During analysis, you create a new column F. At the top of the column, you add: Average Percentage of Total Sales - Splashtastic. What is this column label called?
+An attribute
+
+Fill in the blank to complete the function correctly: =_____ (F:F). 
+Average
+
+Next, you create a slideshow, which includes a data visualization to highlight the Splashtastic sales insights you've discovered. You’ve reached which phase of the data analysis process?
+Share
+
+The table is dental_data_table, and the column name is zip_code. You write the following query, but get an error. What statement will correct the problem?
+WHERE zip_code = 81137
+
+The fact that the dataset includes people who all live in the same zip code might get in the way of fairness.
+True
+
+Fill in the blank: The people who are familiar with a problem and help verify the results of data analysis are
+subject-matter experts
+
+Which type of chart will be most effective?
+A line chart
+ 
