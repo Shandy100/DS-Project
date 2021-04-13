@@ -1,0 +1,85 @@
+A magazine wants to understand why its subscribers have been increasing. A data analyst could help answer that question with a report that predicts the result of a half-price sale on future subscription rates.
+False
+
+A doctor’s office has discovered that patients are waiting 20 minutes longer for their appointments than in past years. A data analyst could help solve this problem by analyzing how many doctors and nurses are on staff at a given time compared to the number of patients with appointments.
+True
+
+A problem is an obstacle to be solved, an issue is a topic to investigate, and a question is designed to discover information.
+True
+
+Data analysts answer questions and solve problems. These are called business tasks.
+True
+
+Data-driven decision-making is using facts to guide business strategy. The benefits include which of the following? Select all that apply.
+Combining observation with objective data
+Using data analytics to find the best possible solution to a problem
+Getting a complete picture of a problem and its causes
+
+It’s possible for conclusions drawn from data analysis to be both true and unfair.
+True
+
+Fill in the blank: Fairness is achieved when data analysis doesn't create or _____ bias.
+reinforce
+
+A large hotel chain sees about 500 customers per week. A data analyst working there is gathering data through customer satisfaction surveys. They are anxious to begin analysis, so they start analyzing the data as soon as they receive 50 survey responses. This is an example of what? Select all that apply.
+Ans:
+Failing to have a large enough sample size
+Failing to include diverse perspectives in data collection
+
+Fill in the blank: A doctor’s office has discovered that patients are waiting 20 minutes longer for their appointments than in past years. To help solve this problem, a data analyst could investigate how many nurses are on staff at a given time compared to the number of 
+patients with appointments
+
+A problem is an obstacle to be solved, an issue is a topic to investigate, and a _____ is designed to discover information.
+question
+
+Fill in the blank: A business task is described as the problem or _____ a data analyst answers for a business.
+question
+
+Which of the following examples describe fairness in data analysis? Select all that apply.
+Considering systematic factors that may influence data
+Making sure a sample population represents all groups
+Factoring in social contexts that could create bias in conclusions
+
+A data analyst is analyzing fruit and vegetable sales at a grocery store. They’re able to find data on everything except red onions. What’s the best course of action? 
+Ask a teammate for help finding data on red onions.
+
+Collaborating with a social scientist to provide insights into human bias and social contexts is an effective way to avoid bias in your data.
+True
+
+An online gardening magazine wants to understand why its subscriber numbers have been increasing. What kind of reports can a data analyst provide to help answer that question? Select all that apply.
+Reports that examine how a recent 50%-off sale affected the number of subscription purchases
+Reports that describe how many customers shared positive comments about the gardening magazine on social media in the past year
+Reports that compare past weather patterns to the number of people asking gardening questions to their social media
+
+What is a question or problem that a data analyst answers for a business?
+Complaint
+Business task
+
+Fill in the blank: Data-driven decision-making is described as using _____ to guide business strategy.
+facts
+
+A data analyst is analyzing fruit and vegetable sales at a grocery store. They’re able to find data on everything except red onions. If they exclude red onions from the analysis, this would be an example of creating or reinforcing bias.
+True
+
+A doctor’s office discovers that patients are waiting 20 minutes longer for their appointments than in past years. In what ways could a data analyst help solve this problem? Select all that apply. 
+nalyze the number of patients seen per day compared to past years.
+Analyze how many doctors and nurses are on staff at a given time compared to the number of patients with appointments.
+
+An online gardening magazine wants to understand why its subscriber numbers have been increasing. A data analyst discovers that significantly more people subscribe when the magazine has its annual 50%-off sale. This is an example of what?
+Analyzing customer buying behaviors
+
+A gym wants to start offering exercise classes. A data analyst plans to survey 10 people to determine which classes would be most popular. To ensure the data collected is fair, what steps should they take? Select all that apply.
+Increase the number of participants.
+Collect data anonymously.
+Ensure participants represent a variety of profiles and backgrounds.
+
+
+Describe the difference between a question and a problem in data analytics.
+A question is designed to discover information, whereas a problem is an obstacle or complication that needs to be solved. 
+
+Fill in the blank: Fairness is achieved when data analysis doesn't create or _____ bias.
+reinforce
+
+A large hotel chain sees about 500 customers per week. A data analyst working there is gathering data through customer satisfaction surveys. They are anxious to begin analysis, so they start analyzing the data as soon as they receive 50 survey responses. This is an example of what? Select all that apply.
+Failing to have a large enough sample size
+Failing to include diverse perspectives in data collection
