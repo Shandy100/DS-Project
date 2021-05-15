@@ -1,5 +1,3 @@
-#https://www.kaggle.com/bipinyadav/corona-pandemic-analysis-on-air-pollution
-
 library(tidyverse)
 list.files(path = "../New folder")
 city <- read.csv("../New folder/city_day.csv")
