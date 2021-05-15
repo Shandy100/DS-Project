@@ -1,0 +1,210 @@
+---
+title: "Co2 Emission Vs Population"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(dplyr)
+library(ggplot2)
+library("readxl")
+library(rvest)
+library(robotstxt)
+library(forecast)
+library(MLmetrics)
+DE<-read_excel("Per capita vs country1.xlsx")
+Wo<-read_excel("world.xlsx")
+I<-read_excel("india.xlsx")
+Con<-read_excel("Continent.xlsx")
+Ci<-read_excel("C.xlsx")
+Sca<-read_excel("Sca.xlsx")
+P1<-read_excel("Piechart1.xlsx")
+
+```
+
+# Summary
+
+## Column {data-width=150}
+-----------------------------------------------------------------------
+
+### Annual Emission Co2(World)
+
+```{r}
+x<-"36441387580"
+valueBox(x)
+```
+
+### Per Capita(World)
+
+```{r}
+y<-"4.724384"
+valueBox(y)
+```
+
+## Column {data-width=250}
+
+### Annual Co2 Emission
+
+
+```{r}
+a<-ggplot(DE[tail(order(DE$A), 11), ], aes(x = Entity, y = A))+
+  geom_bar(stat = "identity", fill = "#A9A9A9")+
+  labs(x = "Country",
+       y = "Annual CO2 Emission(Million Tonnes)",
+       title = "Top 10 vs World Annual Co2 Emission")
+a + theme_light() 
+
+```
+## Column {data-width=200}
+
+### PerCapita Co2 Emission
+
+```{r}
+b<-ggplot(DE[tail(order(DE$A), 11), ], aes(x = Entity, y = P))+
+  geom_bar(stat = "identity", fill = "#2F4F4F")+ 
+  labs(x = "Country",
+       y = "PerCapita(Million Tonnes)",
+       title = "Top 10 vs World PerCapita Co2 Emission")
+b + coord_flip()+theme(
+  panel.background = element_rect(fill = "#FFE4B5", colour = "#6D9EC1",
+                                  size = 2, linetype = "solid"),
+  panel.grid.major = element_line(size = 0.5, linetype = 'solid',
+                                  colour = "white"), 
+  panel.grid.minor = element_line(size = 0.25, linetype = 'solid',
+                                  colour = "white")
+)
+```
+
+## Column {data-width=200}
+
+
+### Continents Co2 Emission
+
+
+```{r}
+pie <-  ggplot(Ci, aes(x = "", y=Ann, fill = factor(Continents))) +
+  geom_bar(width = 1, stat ="identity")+
+  labs(fill="Legend",
+       x=NULL, y=NULL, title="Continents Annual Co2 Emission")
+pie + coord_polar(theta = "y", start = 0)
+```
+
+## Column {data-width=200}
+
+### Comparsion of Top 5 Vs World
+
+```{r}
+ggplot(I, aes(x=Year))+
+  geom_line(mapping=aes(y = W,group=1,color = "World"), size = 5)+
+  geom_line(mapping=aes(y = B,group=1,color = "India"), size = 2)+
+  geom_line(mapping=aes(y = China,group=1,color = "China"), size = 2)+
+  geom_line(mapping=aes(y = USA,group=1,color = "USA"), size = 2)+
+  geom_line(mapping=aes(y = Russia,group=1,color = "Russia"), size = 2)+
+  geom_line(mapping=aes(y = Japan,group=1,color = "Japan"), size = 2)+
+  labs(x = "Year",
+       y = "Annual CO2 Emission(Million Tonnes)",
+       title = "Top 5 Vs World Line Graph(2009-2019)")
+```
+
+# Population Density Vs Carbon Emission
+
+## Column {data-width=250}
+
+### Co2 Emission Growth
+
+```{r}
+ggplot(Sca, aes(x = Country, y = Diff))+
+  geom_bar(stat = "identity", fill = "purple")+
+  labs(x = "Country",
+       y = "Growth of Co2 Emission",
+       title = "Co2 Emission Growth(2009-19)")
+
+```
+## Column {data-width=250}
+
+### Growth of Pop vs ACE
+
+```{r}
+ggplot(data = Wo, aes(x = Year))+
+  geom_line(aes (y = ANNC,color="World"),size = 2)+
+  geom_line(aes (y = Pop,color="Population"),size = 2)+
+  labs(x = "Year",
+       y = "Population",
+       title = "Population Vs Annual Co2 Emission")
+
+```
+
+## Column {data-width=250}
+-----------------------------------------------------------------------
+
+### Annual(To compare pop Density-1)
+
+```{r}
+pie <-  ggplot(P1, aes(x = "", y=Annn, fill = factor(Continents))) +
+  geom_bar(width = 1, stat ="identity")+
+  labs(fill="Legend",
+       x=NULL, y=NULL, title="Asia Vs Ind&CHN AnnualCo2 Emission")
+pie + coord_polar(theta = "y", start = 0)
+
+```
+
+## Column {data-width=250}
+
+### Per Capita Co2(To compare pop Density-21)
+
+```{r}
+pie <-  ggplot(P1, aes(x = "", y=I, fill = factor(Continents))) +
+  geom_bar(width = 1, stat ="identity")+
+  labs(fill="Legend",
+       x=NULL, y=NULL, title="Asia Vs Ind&CHN PerCap Co2 Emission")
+pie + coord_polar(theta = "y", start = 0)
+
+```
+
+
+
+# ARIMA,World
+
+## Column {data-width=212}
+
+### Cumlative
+```{r Cuml, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("11.png")
+```
+
+## Column {data-width=212}
+
+### India Growth
+```{r India, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("2.png")
+```
+## Column {data-width=212}
+
+### World Heatmap
+```{r World, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("3.jpg")
+```
+## Column {data-width=212}
+
+### GDP vs Production
+```{r GDP, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("5.png")
+```
+
+
+## Column {data-width=150}
+
+### Arima India Growth of Co2 Annual emission
+
+```{r}
+IPCCE <- c(4.7,4.5,4.76,4.85,4.87,4.85,4.83,4.77,4.71,4.72,4.77,4.72)
+timeseries <- ts(IPCCE,start = c(2019,1),frequency = 12)
+fit <- auto.arima(timeseries)
+forecasting <- forecast(fit,5)
+plot(forecasting, main="Per Capita of India")
+
+```
+
