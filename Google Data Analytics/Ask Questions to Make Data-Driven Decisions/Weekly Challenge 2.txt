@@ -1,0 +1,84 @@
+1.Question 1
+Which of the following statements describes an algorithm?
+A process or set of rules to be followed for a specific task describes an algorithm.
+
+2.Fill in the blank: In data analytics, qualitative data _____. Select all that apply.
+is subjective
+
+Correct
+In data analytics, qualitative data is subjective and measures qualities and characteristics.
+
+
+measures qualities and characteristics
+
+Correct
+In data analytics, qualitative data is subjective and measures qualities and characteristics.
+
+3.Question 3
+In data analytics, dashboards monitor data that is a continuous source of incoming information. Which of the following terms describes this type of data?
+
+Live
+
+Correct
+Live data is a continuous source of incoming information.
+
+4.Question 4
+Fill in the blank: A _____ is a data-summarization tool used to sort, reorganize, group, count, total, or average data.
+Pivot table
+Correct
+A pivot table is a data summarization tool used to sort, reorganize, group, count, total, or average data.
+
+5.Question 5
+A metric is a specific type of data that companies use to identify a problem domain.
+
+False
+
+Correct
+A metric is a single, quantifiable type of data used when setting and evaluating goals.
+
+
+6.Question 6
+Fill in the blank: A _____ goal is measurable and evaluated using single, quantifiable data.
+Metric
+Correct
+A metric goal is measurable and evaluated using single, quantifiable data.
+
+7.Question 7
+Describe the main differences between big and small data.
+Small data is specific and concerns a short time period. Big data is less specific and concerns a longer time period.
+Correct
+Small data is specific and concerns a short time period. Big data is less specific and concerns a longer time period.
+
+
+Question 1
+In data analytics, a pattern is defined as a process or set of rules to be followed for a specific task.
+
+False
+In data analytics, an algorithm is defined as a process or set of rules to be followed for a specific task.
+
+Question 3
+In data analytics, dashboards monitor data that is a continuous source of incoming information. Which of the following terms describes this type of data?
+Live
+
+Correct
+Live data is a continuous source of incoming information.
+
+4.If a data analyst compares the cost of an investment to the net profit of that investment over a period of time, they’re analyzing the investment scope.
+False
+
+Correct
+If a data analyst compares the cost of an investment to the net profit of that investment over a period of time, they’re analyzing the return on investment.
+
+5.Fill in the blank: A data analyst is using data to address a large-scale problem. This type of analysis would most likely require _____. Select all that apply.
+
+data that reflects change over time
+
+Correct
+A data analyst using data to address a large-scale problem would most likely require big data that reflects change over time. 
+
+
+big data
+
+Correct
+A data analyst using data to address a large-scale problem would most likely require big data that reflects change over time. 
+

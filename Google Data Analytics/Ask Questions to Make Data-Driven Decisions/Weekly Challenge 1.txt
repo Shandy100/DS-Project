@@ -1,0 +1,88 @@
+Structured thinking involves which of the following processes? Select all that apply.
+Structured thinking involves recognizing the current problem or situation, organizing available information, revealing gaps and opportunities, and identifying the options.
+
+q.A data analyst creates data visualizations and a slideshow. Which phase of the data analysis process does this describe?
+Share
+
+q.A garden center wants to attract more customers. A data analyst in the marketing department suggests advertising in popular landscaping magazines. This is an example of what practice?
+Reaching your target audience
+
+q.A data analyst is working for a local power company. Recently, many new apartments have been built in the community, so the company wants to determine how much electricity it needs to produce for the new residents in the future. A data analyst uses data to help the company make a more informed forecast. This is an example of which problem type?
+This is an example of making predictions. Making predictions deals with making informed decisions about how things may be in the future. 
+
+q.Fill in the blank: Categorizing things involves assigning items to categories, whereas _____ takes those categories a step further, grouping them into broader classifications.
+Identifying themes
+
+q.Which of the following examples are vague questions? Select all that apply.
+How much time did you spend waiting in line?
+Who was the greatest of all time?
+What’s the best place to purchase the things we need?
+
+q.The question, “Why don’t our employees complete their timesheets each Friday by noon?” is not action-oriented. Which of the following questions are action-oriented and more likely to lead to change? Select all that apply.
+What functionalities would make our timesheet web page more user-friendly?
+What features could we add to our calendar app as a weekly timesheet reminder to employees?
+Correct
+These questions are action-oriented. That means they’re more likely to result in specific answers that can be acted on to lead to change. 
+How could we simplify the time-keeping process for our employees?
+Correct
+These questions are action-oriented. That means they’re more likely to result in specific answers that can be acted on to lead to change. 
+
+q.Questions that make assumptions often involve concepts that are formed without evidence. An example of this is an idea that is accepted as true without proof.
+True
+Questions that make assumptions often involve concepts that are formed without evidence. For example, an idea that is accepted as true without proof.
+
+
+
+
+q.Structured thinking involves recognizing the current problem or situation you’re facing and identifying your options.
+True
+Structured thinking involves recognizing the current problem or situation you’re facing and identifying your options.
+
+q.The share phase of the data analysis process typically involves which of the following activities? Select all that apply.
+The share phase of the data analysis process typically involves communicating findings, summarizing results using data visualizations, and creating a slideshow to present to stakeholders.
+
+Question 3
+q.If a cooking supply store wants to attract more customers, where can they advertise to better reach their target audience? Select all that apply.
+To better reach their target audience, they can advertise at a bus stop near a local culinary school, on a podcast for foodies, and on TV during the season finale of The Best Chef in the Universe. A target audience is the people you’re trying to reach. In this scenario, people who enjoy food and cooking are the store’s target audience.
+
+q.Making predictions is one of the six data analytics problem types. It deals with using data to inform decisions about how things may be in the future. Select the scenario that’s an example of making predictions.
+A data analyst at a shoe retailer using data to inform the marketing plan for an upcoming summer sale is an example of making predictions. 
+
+q.Describe the key difference between the problem types of categorizing things and identifying themes.
+Categorizing things involves assigning items to categories. Identifying themes takes those categories a step further, grouping them into broader themes.
+
+q.Question 6
+Which of the following examples are closed-ended questions? Select all that apply.
+
+How old are you?
+
+Correct
+Closed-ended questions don’t encourage people to elaborate and share valuable details.
+
+
+What grade did you get on the math test?
+
+Correct
+Closed-ended questions don’t encourage people to elaborate and share valuable details.
+
+
+Is math your favorite subject?
+
+Correct
+Closed-ended questions don’t encourage people to elaborate and share valuable details.
+
+q.The question, “Why don’t our employees complete their timesheets each Friday by noon?” is not action-oriented. Which of the following questions are action-oriented and more likely to lead to change? Select all that apply.
+What functionalities would make our timesheet web page more user-friendly?
+Correct
+These questions are action-oriented. That means they’re more likely to result in specific answers that can be acted on to lead to change. 
+What features could we add to our calendar app as a weekly timesheet reminder to employees?
+
+Correct
+These questions are action-oriented. That means they’re more likely to result in specific answers that can be acted on to lead to change. 
+
+
+How could we simplify the time-keeping process for our employees?
+
+Correct
+These questions are action-oriented. That means they’re more likely to result in specific answers that can be acted on to lead to change. 
+
