@@ -1,0 +1,62 @@
+Question 1
+If you have a short time frame for data collection and need an answer immediately, you likely will have to use historical data.
+True
+If you have a short time frame for data collection and need an answer immediately, you likely will have to use historical data.
+
+
+Which of the following are examples of discrete data? Select all that apply.
+
+Box office returns
+
+Correct
+The number of actors in a movie, box office returns, and the movie budget are examples of discrete data.
+
+
+Movie budget 
+
+Correct
+The number of actors in a movie, box office returns, and the movie budget are examples of discrete data.
+
+
+Number of actors in movie
+
+Correct
+The number of actors in a movie, box office returns, and the movie budget are examples of discrete data.
+
+3.Nominal qualitative data has a set order or scale.
+False
+
+Correct
+Nominal qualitative data does not have a set order or scale. 
+
+4.Internal data is more reliable because it’s clean.
+False
+
+5.A social media post is an example of structured data.
+False
+
+Correct
+A social media post is an example of unstructured data.
+
+6.Which of the following values are examples of a Boolean data type? Select all that apply.
+
+Yes or no
+
+Correct
+True or false and yes or no are examples of a Boolean data type.
+
+
+True or false 
+
+Correct
+True or false and yes or no are examples of a Boolean data type.
+
+7.Question 7
+In long data, separate columns contain the values and the context for the values, respectively. What does each column contain in wide data?
+
+A specific constraint
+
+8.Fill in the blank: Data transformation enables data analysts to change the _____ of the data.
+structure
+Correct
+Data transformation enables data analysts to change the structure of the data.
